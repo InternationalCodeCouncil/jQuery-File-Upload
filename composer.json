@@ -1,5 +1,5 @@
 {
-    "name": "blueimp/jquery-file-upload"
+    "name": "blueimp/file-upload"
   , "description": "File Upload widget for jQuery."
   , "keywords": ["jquery",
         "file",
